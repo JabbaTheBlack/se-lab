@@ -1,6 +1,6 @@
 # SE Spaceship
 
-![Maven Build Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FJabbaTheBlack%2Fse-lab%2Factions%2Fruns&query=%24.workflow_runs%5B0%5D.conclusion&label=Maven&color=success
+![Maven Build Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FJabbaTheBlack%2Fse-lab%2Factions%2Fruns&query=%24.workflow_runs%5B0%5D.conclusion&label=Maven&color=success&status=%24.workflow_runs%5B0%5D.conclusion
 )
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
