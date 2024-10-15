@@ -1,6 +1,7 @@
 # SE Spaceship
 
-![Maven Build](https://github.com/JabbaTheBlack/se-lab/actions/workflows/maven-build.yml/badge.svg?branch=main)
+![Maven Build Status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FJabbaTheBlack%2Fse-lab%2Factions%2Fruns&query=%24.workflow_runs%5B0%5D.conclusion&label=Maven
+)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
