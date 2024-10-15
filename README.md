@@ -1,5 +1,9 @@
 # SE Spaceship
 
+![Windows Build](https://github.com/JabbaTheBlack/selab/actions/workflows/maven-build.yml/badge.svg?branch=main&event=push)
+![Maven Build](https://github.com/JabbaTheBlack/se-lab/actions/workflows/maven-build.yml/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
